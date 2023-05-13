@@ -2,7 +2,7 @@
 
 ## Global context
 
-+ Data Structure
++ Data Structures
     + [Keywords](./Data%20structures/Keywords.md)
     + [ValueList](./Data%20structures/ValueList.md)
 
