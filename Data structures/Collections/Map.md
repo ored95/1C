@@ -18,7 +18,7 @@ ProcessingParameters = New Map;
 ProcessingParameters.Insert("Beginning date", BeginDate);
 ProcessingParameters.Insert("End date", EndDate);
 ```
-2. `Insert(<Key>, <Value>)`
+2. `Delete(<Key>)`
 + Deletes the mapping element with the given key.
 ```cpp
 AvailableDimensions = New Map;
@@ -46,7 +46,7 @@ ProcessingParameters.Count();
 ```
 4. `Get(<Key>)`
 + Obtains value by key. Works like the operator []. Return Value of an element of map or `Undefined` if the key is not specified.
-5. `Insert(<Key>, <Value>)`
+5. `Clear()`
 + Deletes all mapping elements.
 ```cpp
 ProcessingParameters.Clear();
