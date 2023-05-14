@@ -28,4 +28,19 @@
     + [String functions](./Procedures/String.md)
 
 ## Examples
-1. [WordCountFromString](./Examples/WordCountFromString.bsl)
+### A. Beginner
+1. [Inc](./Examples/beginner/Inc.bsl)
+2. [Dec](./Examples/beginner/Dec.bsl)
+3. [GetCharFromStringByIndex](./Examples/beginner/GetCharFromStringByIndex.bsl)
+4. [WordCountFromString](./Examples/beginner/WordCountFromString.bsl)
+
+### B. Advanced
+1. [GetNextProxy](./Examples/advanced/GetNextProxy.bsl)
+2. [GetSpreadDoc](./Examples/advanced/GetSpreadDoc.bsl)
+3. [Translate_VI_EN_ByGoogle](./Examples/advanced/Translate_VI_EN_ByGoogle.bsl)
+4. [Translate_VI_EN_ByYandex](./Examples/advanced/Translate_VI_EN_ByYandex.bsl)
+5. [Translit_VI_LAT](./Examples/advanced/Translit_VI_LAT.bsl)
+6. [ReadCSV_RegEx](./Examples/advanced/ReadCSV_RegEx.bsl)
+7. [ReadCSV_AtClient](./Examples/advanced/ReadCSV_AtClient.bsl)
+8. [ReadCSVToTable](./Examples/advanced/ReadCSVToTable.bsl)
+9. [DynamicListToTable](./Examples/advanced/DynamicListToTable.bsl)
