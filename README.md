@@ -33,6 +33,7 @@
 2. [Dec](./Examples/beginner/Dec.bsl)
 3. [GetCharFromStringByIndex](./Examples/beginner/GetCharFromStringByIndex.bsl)
 4. [WordCountFromString](./Examples/beginner/WordCountFromString.bsl)
+5. [StrExtractWords](./Examples/beginner/StrExtractWords.bsl)
 
 ### B. Advanced
 1. [GetNextProxy](./Examples/advanced/GetNextProxy.bsl)
