@@ -9,6 +9,7 @@
     + [Keywords](./Data%20structures/Keywords.md)
     + Collections
         + [ValueList](./Data%20structures/Collections/ValueList.md)
+        + [Map](./Data%20structures/Collections/Map.md) and [KeyAndValue](./Data%20structures/Collections/KeyAndValue.md)
     + Events
         + [Add handler](./Data%20structures/Event/AddHandler.md)
         + [Remove handler](./Data%20structures/Event/RemoveHandler.md)
