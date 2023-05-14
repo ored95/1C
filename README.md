@@ -25,3 +25,7 @@
 + Interactive procedures and functions
     + [Input / Output](./Procedures/IO.md)
     + [Basic functions](./Procedures/Basic.md)
+    + [String functions](./Procedures/String.md)
+
+## Examples
+1. [WordCountFromString](./Examples/WordCountFromString.bsl)
