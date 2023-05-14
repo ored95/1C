@@ -8,6 +8,7 @@
     + [Procedures](./Data%20structures/Procedures.md)
     + [Keywords](./Data%20structures/Keywords.md)
     + Collections
+        + [Array](./Data%20structures/Collections/Array.md)
         + [ValueList](./Data%20structures/Collections/ValueList.md)
         + [Map](./Data%20structures/Collections/Map.md) and [KeyAndValue](./Data%20structures/Collections/KeyAndValue.md)
     + Events
