@@ -28,7 +28,7 @@ EndFunction
         An optional comma-separated list of formal parameters. Formal parameter values must match the values of actual parameters that are passed to the function. This list contains the parameter names that are used in the function text. The list of formal parameters can be empty.
     + `=<DefaultValue>`
         
-        An optional default parameter value. You can include parameters with default values anywhere in the list of formal parameters. For more information, see Passing procedure and function parameters.
+        An optional default parameter value. You can include parameters with default values anywhere in the list of formal parameters.
 
     + `Export`
     
@@ -37,7 +37,7 @@ EndFunction
 + Code function
     + Declarations of local variables
         
-        Declations of local variables that can be referenced in this function only (see Var operator description).
+        Declations of local variables that can be referenced in this function only.
     + Operators
 
         Executable function operators.
