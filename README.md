@@ -25,7 +25,10 @@
 + Interactive procedures and functions
     + [Input / Output](./Procedures/IO.md)
     + [Basic functions](./Procedures/Basic.md)
+    + [Number functions](./Procedures/Number.md)
     + [String functions](./Procedures/String.md)
+    + [Qualifiers / TypeDescription](./Procedures/Qualifiers.md)
+    + [QueryBox](./Procedures/QueryBox.md)
 
 ## Examples
 ### A. Beginner
@@ -34,6 +37,8 @@
 3. [GetCharFromStringByIndex](./Examples/beginner/GetCharFromStringByIndex.bsl)
 4. [WordCountFromString](./Examples/beginner/WordCountFromString.bsl)
 5. [StrExtractWords](./Examples/beginner/StrExtractWords.bsl)
+6. [IsNum](./Examples/beginner/IsNum.bsl)
+7. [ExtractNumbersFromString](./Examples/beginner/ExtractNumbersFromString.bsl)
 
 ### B. Advanced
 1. [GetNextProxy](./Examples/advanced/GetNextProxy.bsl)
