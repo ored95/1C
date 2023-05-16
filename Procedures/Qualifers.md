@@ -23,26 +23,26 @@
 ```
 
 ## 1. NumberQualifiers
-+ Syntax: `Новый КвалификаторыЧисла(<ЧислоРазрядов>, <ЧислоРазрядовДробнойЧасти>, <ДопустимыйЗнак>)`
++ Syntax: `New QualifiersNumber(<NumberDigits>, <NumberDigitsDecimalPart>, <ValidSign>)`
 + Options
-    + `<ЧислоРазрядов>`: optional
-    + `<ЧислоРазрядовДробнойЧасти>`: optional
-    + `<ДопустимыйЗнак>`: `AllowedSign.Any` (by default), `AllowedSign.Nonnegative`
+    + `<NumberDigits>`: optional
+    + `<NumberDigitsDecimalPart>`: optional
+    + `<AllowedSign>`: `AllowedSign.Any` (by default), `AllowedSign.Nonnegative`
 + Example
     ```cpp
     QN = new NumberQualifiers(10, 2, AllowedSign.Nonnegative);
     ```
 ## 2. StringQualifiers
-+ Syntax: `Новый КвалификаторыСтроки(<ДлинаСтроки>, <ДопустимаяДлина>)`
++ Syntax: `New StringQualifiers(<Length>, <MaxLength>)`
 + Options
-    + `<ДлинаСтроки>`: optional
-    + `<ДопустимаяДлина>`: optional
+    + `<Length>`: optional
+    + `<MaxLength>`: optional
 + Example
     ```cpp
     QS = new StringQualifiers(10);
     ```
 ## 3. DateQualifiers
-+ Syntax: `new DateQualifiers(<DateFractions>)`
++ Syntax: `New DateQualifiers(<DateFractions>)`
 + Options
     + `<DataFractions>`
         + `Date`
