@@ -39,6 +39,7 @@
 5. [StrExtractWords](./Examples/beginner/StrExtractWords.bsl)
 6. [IsNum](./Examples/beginner/IsNum.bsl)
 7. [ExtractNumbersFromString](./Examples/beginner/ExtractNumbersFromString.bsl)
+8. [GuessANumber](./Examples/beginner/GuessANumber.bsl)
 
 ### B. Advanced
 1. [GetNextProxy](./Examples/advanced/GetNextProxy.bsl)
