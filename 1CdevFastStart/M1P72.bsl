@@ -34,7 +34,7 @@ Procedure YearПриИзмененииНаСервере()
 	MonthsOfYear(Year);
 EndProcedure
 
-&НаКлиенте
+&AtClient
 Procedure YearПриИзменении(Элемент)
 	YearПриИзмененииНаСервере();
 EndProcedure
