@@ -7,6 +7,7 @@
     + [Functions](./Data%20structures/Functions.md)
     + [Procedures](./Data%20structures/Procedures.md)
     + [Keywords](./Data%20structures/Keywords.md)
+    + [String, symbol](https://1s83.info/koding/simvol-perenosa-stroki-v-1s.html)
     + Collections
         + [Array](./Data%20structures/Collections/Array.md)
         + [ValueList](./Data%20structures/Collections/ValueList.md)
@@ -29,6 +30,7 @@
     + [String functions](./Procedures/String.md)
     + [Qualifiers / TypeDescription](./Procedures/Qualifiers.md)
     + [QueryBox](./Procedures/QueryBox.md)
+    + [Select (working with Datetime)](https://helpme1s.ru/yazyk-zaprosov-1s-8-3-dlya-nachinayushhix-programmistov-funkcii-dlya-raboty-s-datoj)
 
 ## Examples
 ### A. Beginner
