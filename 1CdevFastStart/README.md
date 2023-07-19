@@ -23,4 +23,4 @@
     + UNION (ALL)
     + JOIN (LEFT, RIGHT, INNER, OUTTER)
     + Temporary table: PLACE (🇷🇺 ПОМЕСТИТЬ), `;` symbol
-    
+    + Print form (🇷🇺 Макет)
