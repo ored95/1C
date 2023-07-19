@@ -24,3 +24,5 @@
     + JOIN (LEFT, RIGHT, INNER, OUTTER)
     + Temporary table: PLACE (🇷🇺 ПОМЕСТИТЬ), `;` symbol
     + Print form (🇷🇺 Макет)
+
+    ![Alt text](./M3P7/M3P71-result.PNG)
