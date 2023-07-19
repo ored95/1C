@@ -12,7 +12,7 @@
     + Common module (🇷🇺 *Общий модуль*)
     + Transaction (🇷🇺 *Транзакция*)
 
-    ![Alt text](M2C9TRANSACTION.png)
+    ![Alt text](./M2P9/M2C9TRANSACTION.png)
 
 + **Module 3. Transaction. Structured Query Language.**
     + Query programming (🇷🇺 *Запрос*)
@@ -23,3 +23,4 @@
     + UNION (ALL)
     + JOIN (LEFT, RIGHT, INNER, OUTTER)
     + Temporary table: PLACE (🇷🇺 ПОМЕСТИТЬ), `;` symbol
+    
