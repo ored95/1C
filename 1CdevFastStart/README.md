@@ -42,3 +42,7 @@
                 ИЗ
                     НеПрочих КАК НеПрочих)
         ```
+
++ **Module 3. UI**
+    + Processing by register
+    + Subsystem, command
