@@ -46,7 +46,7 @@
 + **Module 3. UI**
     + Processing by register
     + Subsystem, command
-    + Form objects
+    + Form objects: `ОСНОВНЫЕ` & `ДОПОЛНИТЕЛЬНЫЕ` (second opinion form)
 
     ![Alt text](./M4P3/WorkingForm.png)
 
