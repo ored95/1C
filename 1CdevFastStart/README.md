@@ -43,7 +43,7 @@
                     НеПрочих КАК НеПрочих)
         ```
 
-+ **Module 3. UI**
++ **Module 4. UI**
     + Processing by register
     + Subsystem, command
     + Form objects: `ОСНОВНЫЕ` & `ДОПОЛНИТЕЛЬНЫЕ` (second opinion form)
@@ -99,6 +99,6 @@
             КонецЦикла;
 
             Объект.Всего = Выборка.Ссылка.Всего;
-            
+
         КонецЦикла;
         ```
